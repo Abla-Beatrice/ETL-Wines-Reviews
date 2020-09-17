@@ -13,7 +13,7 @@ These are the steps that were taken:
 
 1. The database schema was defined [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com) as follows:
 
-![Wine_DB_Diagram.png]
+![Wine_DB_Diagram.png](Wine_DB_Diagram.png) 
 
 2. The export function was used to predefine the database in PostgresSQL (see [Tables_for_wine_db.sql](SQL_Files/Tables.sql))
 
