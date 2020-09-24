@@ -1,8 +1,8 @@
-# ETL-Project
+# Wines_Reviews
 
-This project was completed by Abla and Kiera.
+This project was completed by Abla.
 
-We are delivering a database with data about wine reviews. 
+I am delivering a database with data about wine reviews. 
 It has been aggregated at the 'wine-level' meaning individual review-user data has been averaged (rating and points). 
 By adding average annual temperature information to both the provinces, or countries, a link can be made between the quality of the wine and the temperature. 
 For potential plotting purposes, the longitude and latitude per country were also added.
